@@ -1,0 +1,38 @@
+#game{
+    width:300px;
+    margin:auto;
+    color:midnightblue;
+    font-family:Segoe UI;
+}
+h1{
+    font-size:xx-large;
+    background-color:rebeccapurple;
+    box-shadow:0 0 15px 5px rgba(40, 80, 100, .75);
+    border: 2pm solid;
+    border-radius: 10px;
+    padding: 4px;
+}
+h2{
+    font-size:large;
+    background-color:mediumpurple;
+    box-shadow:0 0 15px 5px rgba(40, 80, 100, .75);
+    border: 2pm solid;
+    border-radius: 10px;
+    padding: 4px;
+}
+h3{
+    font-size:medium;
+    text-align:center
+    background-color:rebeccapurple;
+    box-shadow:0 0 15px 5px rgba(40, 80, 100, .75);
+    border: 2pm solid;
+    border-radius: 10px;
+    padding: 4px;
+}
+
+#dicePic{
+   width: 500px;
+}
+#diceDiv{
+    ;
+}
